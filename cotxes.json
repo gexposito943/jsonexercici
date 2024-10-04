@@ -1,0 +1,610 @@
+[
+  {
+    "matricula": "E-0198-LYX",
+    "anyMatriculacio": 2022,
+    "combustible": "diesel",
+    "canviManual": false,
+    "cv": 170,
+    "companyia": {
+      "marca": "opel",
+      "model": "insignia"
+    },
+    "kilometres": null
+  },
+  {
+    "matricula": "E-5213-DWL",
+    "anyMatriculacio": 2006,
+    "combustible": "gasolina",
+    "canviManual": true,
+    "cv": 140,
+    "companyia": {
+      "marca": "jeep",
+      "model": "wrangler"
+    },
+    "kilometres": 70000
+  },
+  {
+    "matricula": "1997-DWL",
+    "anyMatriculacio": 2011,
+    "combustible": "gasolina",
+    "canviManual": true,
+    "cv": 140,
+    "companyia": {
+      "marca": "toyota",
+      "model": "land cruiser"
+    },
+    "kilometres": 70000
+  },
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2014,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 204,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ],
+  [
+    {
+      "matricula": "1997-jjL",
+      "anyMatriculacio": 2010,
+      "combustible": "diesel",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "bmw",
+        "model": "x5"
+      },
+      "kilometres": 30000
+    },
+    {
+      "matricula": "2024-eeL",
+      "anyMatriculacio": 2024,
+      "combustible": "gasolina",
+      "canviManual": true,
+      "cv": 140,
+      "companyia": {
+        "marca": "saab",
+        "model": "9-3"
+      },
+      "kilometres": 70000
+    }
+  ]
+]
